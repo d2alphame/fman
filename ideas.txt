@@ -7,9 +7,20 @@ Ideas for a terminal file manager
 5. Can save current "workspace" on exit
 6. Mod + x to `chmod +x` a selected file (or last created file)
 7. Mod + s to `chmod 400` a selected file
+8. Mod + d to create a new directory in current pane
+9. Mod + shift d to create a new directory in other pane
+10. Mod + f to create a new file in current pane
+11. Mod + shift f to create a new file in other pane
+12. Mod + shift c copy selected file to other pane
+
+
 
 The panes have no borders. Borders are drawn around selected panes
 Use `tab` to switch between panes
+
+Use `enter` to navigate into a folder in the current pane
+
+Use shift + enter to navigate into a folder in the other pane
 
 Space bar pops up a preview window for the selected pane. If no
 pane is selected, it would be for the primary pane.
