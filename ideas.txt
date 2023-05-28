@@ -1,0 +1,17 @@
+Ideas for a terminal file manager
+
+1. Should support configuration
+2. Can be scripted using perl
+3. Can be communicated with using sockets
+4. Written in a fast low level language
+5. Can save current "workspace" on exit
+6. Mod + x to `chmod +x` a selected file (or last created file)
+7. Mod + s to `chmod 400` a selected file
+
+The panes have no borders. Borders are drawn around selected panes
+Use `tab` to switch between panes
+
+Space bar pops up a preview window for the selected pane. If no
+pane is selected, it would be for the primary pane.
+
+Press `esc` to close the preview window
