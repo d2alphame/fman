@@ -5,15 +5,27 @@ Ideas for a terminal file manager
 3. Can be communicated with using sockets
 4. Written in a fast low level language
 5. Can save current "workspace" on exit
-6. Mod + x to `chmod +x` a selected file (or last created file)
-7. Mod + s to `chmod 400` a selected file
-8. Mod + d to create a new directory in current pane
-9. Mod + shift d to create a new directory in other pane
-10. Mod + f to create a new file in current pane
-11. Mod + shift f to create a new file in other pane
-12. Mod + shift c copy selected file to other pane
+6. Loads saved workspace on start
+7. Loads home directory on first use
+8. Mod + x to `chmod +x` a selected file (or last created file)
+9. Mod + s to `chmod 400` a selected file
+10. Mod + d to create a new directory in current pane
+11. Mod + shift d to create a new directory in other pane
+12. Mod + f to create a new file in current pane
+13. Mod + shift f to create a new file in other pane
+14. Mod + shift c copy selected file to other pane
+15. Mod + v Paste selected files in this pane
+16. Esc to cancel selection
+17. Shift + (up or down arrow keys) to enter selection mode
+18. Arrow keys to continue selecting
+19. Enter to accept selection
+20. Mod + o to open the directory in this pane also in the other pane
 
-
+There should also be a directory hotlist. Use Function keys to open items in the 
+hotlist. E.g F1 opens first item in directory hotlist. F2 opens second item in
+directory hostlist, etc. Use shift + Function key to open the entry in 'other' pane
+To add an entry, specify a label (this is what is shown in the hot list pane) and
+a path (the directory to go to)
 
 The panes have no borders. Borders are drawn around selected panes
 Use `tab` to switch between panes
