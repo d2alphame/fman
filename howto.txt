@@ -7,24 +7,34 @@ To copy a single file, use arrow up/down keys to highlight the file
 Use Mod + Shift + c to copy the files to the other pane
 or Mod + Shift + m to move the files to the other pane
 
-Selecting files
-1. Select as you go: 
+Highlighting multiple files
+1. Highlight as you go: 
 Use the up and down arrow keys to go up and down the directory. Use the left
-arrow key to add to selection, use the right arrow key to remove from selection
+arrow key to add to highlights, use the right arrow key to remove from highlights.
 
-2. Select a block:
+2. Highlight a block:
 Use the up or down arrow key to get to the first file.
-Use shift + up or down arrow key to select the file.
+Use shift + up or down arrow key to hightlight the file.
 Use up or down arrow key to get to the second file.
-The first file, the second file, and all the files in between will be selected
+The first file, the second file, and all the files in between will be highlighted
 
-3. Select a block with mouse
+3. Hightlight a block with mouse
 Shift + click on the first file
 Shift + click on the second file
-First file, second file, and all file in between will be selected
+First file, second file, and all file in between will be hightlighted
 
-4. Select as you go with a mouse:
+4. Highlight as you go with a mouse:
 Mod + click on the first file
-Click on the other files to add them to selection
+Click on the other files to add them to highlights
 
-5. Block selection with the command window
+5. Highlighting a block with the command window
+Mod + s
+Type name of first file
+Enter
+Type name of second file
+Enter
+First file, second file, and all files in between will be highlighted
+
+6. Highlight with globs
+Mod + 8
+Globs should be in quotes. Separate globs with commas.
