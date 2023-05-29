@@ -12,4 +12,19 @@ Selecting files
 Use the up and down arrow keys to go up and down the directory. Use the left
 arrow key to add to selection, use the right arrow key to remove from selection
 
-2. 
+2. Select a block:
+Use the up or down arrow key to get to the first file.
+Use shift + up or down arrow key to select the file.
+Use up or down arrow key to get to the second file.
+The first file, the second file, and all the files in between will be selected
+
+3. Select a block with mouse
+Shift + click on the first file
+Shift + click on the second file
+First file, second file, and all file in between will be selected
+
+4. Select as you go with a mouse:
+Mod + click on the first file
+Click on the other files to add them to selection
+
+5. Block selection with the command window
