@@ -1,0 +1,15 @@
+Terminology:
+    current pane: The pane that you're currently in
+    other pane: The pane that you're not currently in
+
+1. Copying files:
+To copy a single file, use arrow up/down keys to highlight the file
+Use Mod + Shift + c to copy the files to the other pane
+or Mod + Shift + m to move the files to the other pane
+
+Selecting files
+1. Select as you go: 
+Use the up and down arrow keys to go up and down the directory. Use the left
+arrow key to add to selection, use the right arrow key to remove from selection
+
+2. 

@@ -16,10 +16,10 @@ Ideas for a terminal file manager
 14. Mod + shift c copy selected file to other pane
 15. Mod + v Paste selected files in this pane
 16. Esc to cancel selection
-17. Shift + (up or down arrow keys) to enter selection mode
-18. Arrow keys to continue selecting
-19. Enter to accept selection
-20. Mod + o to open the directory in this pane also in the other pane
+
+
+Use left arrow key to add items to selection. Use right arrow key to drop
+selected items from selection
 
 There should also be a directory hotlist. Use Function keys to open items in the 
 hotlist. E.g F1 opens first item in directory hotlist. F2 opens second item in
@@ -38,3 +38,6 @@ Space bar pops up a preview window for the selected pane. If no
 pane is selected, it would be for the primary pane.
 
 Press `esc` to close the preview window
+
+Below the hotspot pane is the info pane. It shows the amount of space on the disk,
+the amount of space used and the amount of space left
