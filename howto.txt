@@ -38,3 +38,14 @@ First file, second file, and all files in between will be highlighted
 6. Highlight with globs
 Mod + 8
 Globs should be in quotes. Separate globs with commas.
+
+After highlighting one of the following can be done:
+1. Press escape to cancel the selection
+2. Press enter to accept highlighted files into selection
+3. Press Mod + shift + c to copy the files to the other pane
+4. Press Mod + shift + m to move the files to the other pane
+
+After accepting the selection, use up or down arrow keys to highlight a
+directory and use Mod + c to copy the selection into the directory.
+
+Use Mod + v 
