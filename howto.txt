@@ -48,4 +48,20 @@ After highlighting one of the following can be done:
 After accepting the selection, use up or down arrow keys to highlight a
 directory and use Mod + c to copy the selection into the directory.
 
-Use Mod + v 
+Use Mod + v
+
+
+
+
+
+How to navigate into a directory:
+
+Ensure you're in directory mode (use the Mod key to toggle directory mode),
+type the name of the directory and press enter to navigate into it. Or shift enter
+to open it in other pane.
+
+If the directory is in the list of hotlisted directories, use
+the function keys to open them. E.g. F1 opens the first directory in the hotlist,
+F2 opens the second directory in the list, etc. Use Shift and Function key to
+open the directory in other pane. If the entry is a file, the file is opened in the default application.
+

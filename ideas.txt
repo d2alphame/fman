@@ -34,8 +34,8 @@ Use `enter` to navigate into a folder in the current pane
 
 Use shift + enter to navigate into a folder in the other pane
 
-Space bar pops up a preview window for the selected pane. If no
-pane is selected, it would be for the primary pane.
+Space bar turns other pane into preview mode.
+
 
 Press `esc` to close the preview window
 
@@ -44,6 +44,10 @@ the amount of space used and the amount of space left
 
 
 Fman has 2 modes - Navigation mode and Directory mode.
-Press the Mod key to toggle between both - The only difference between them is that
-jkl and ; are used for arrow up, down, left and right in navigation mode but
-not in directory mode.
+Press the Mod key to toggle between both.
+
+There are 2 sets of buttons used for navigation by default and these can be changed
+in the configuration.
+
+esdf and ijkl for up, left, down, and right respectively.
+
