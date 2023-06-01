@@ -36,6 +36,7 @@ Use shift + enter to navigate into a folder in the other pane
 
 Space bar turns other pane into preview mode.
 
+Mod + space duplicates current pane in the other pane
 
 Press `esc` to close the preview window
 

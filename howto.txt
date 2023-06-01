@@ -57,11 +57,24 @@ Use Mod + v
 How to navigate into a directory:
 
 Ensure you're in directory mode (use the Mod key to toggle directory mode),
-type the name of the directory and press enter to navigate into it. Or shift enter
-to open it in other pane.
+type the name of the directory and press enter to navigate into it in the current pane.
+Or shift enter to open it in other pane. If you type the path to a file, the file is
+opened using your default program
 
 If the directory is in the list of hotlisted directories, use
-the function keys to open them. E.g. F1 opens the first directory in the hotlist,
+the function keys to open it. E.g. F1 opens the first directory in the hotlist,
 F2 opens the second directory in the list, etc. Use Shift and Function key to
-open the directory in other pane. If the entry is a file, the file is opened in the default application.
+open the directory in other pane. If the entry is a file, the file is opened
+in the default application.
 
+Switch to navigation mode by pressing the Mod key.
+In this mode, i and k,  (or alternatively e and d) go up and down respectively.
+The arrow keys can also be used.
+Press enter to navigate into the directory in the current pane, or shift enter to 
+navigate into it in the other pane. If it's a file, it will be opened with the 
+default program.
+
+
+
+To Copy files:
+Mod shift C works with highlighted 
