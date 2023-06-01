@@ -16,6 +16,7 @@ Ideas for a terminal file manager
 14. Mod + shift c copy selected file to other pane
 15. Mod + v Paste selected files in this pane
 16. Esc to cancel selection
+17. Mod + r to delete a file or directory
 
 
 Use left arrow key to add items to selection. Use right arrow key to drop

@@ -77,4 +77,8 @@ default program.
 
 
 To Copy files:
-Mod shift C works with highlighted 
+Mod shift c works with highlighted files
+Mod c works with selected files
+
+Press enter to accept highlighted files as selection.
+Press escape to cancel
