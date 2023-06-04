@@ -2,10 +2,22 @@ Terminology:
     current pane: The pane that you're currently in
     other pane: The pane that you're not currently in
 
-1. Copying files:
+1. Copying a file to other pane:
 To copy a single file, use arrow up/down keys to highlight the file
-Use Mod + Shift + c to copy the files to the other pane
-or Mod + Shift + m to move the files to the other pane
+Use Mod + Shift + c to copy the file to the other pane
+or Mod + Shift + m to move the file to the other pane
+
+To copy a group of files to other pane:
+- Use up or down arrow keys to get to a file
+- Use shift + up or down arrow keys to highlight first file
+- Release shift key and use up or down arrow keys to highlight more files
+- The up or down arrow keys can also be used to de-highlight an highlighted file
+- Press Mod + shift + c to copy the highlighted files to other pane
+- Or Mod + shift + m to move the files to other pane
+
+2. To copy a file to current pane:
+
+
 
 Highlighting multiple files
 1. Highlight as you go: 
@@ -48,9 +60,7 @@ After highlighting one of the following can be done:
 After accepting the selection, use up or down arrow keys to highlight a
 directory and use Mod + c to copy the selection into the directory.
 
-Use Mod + v
-
-
+Use Mod + v to 
 
 
 
@@ -79,6 +89,15 @@ default program.
 To Copy files:
 Mod shift c works with highlighted files
 Mod c works with selected files
+Mod c copies to the current pane, while Mod shift c copies to other pane.
+
 
 Press enter to accept highlighted files as selection.
-Press escape to cancel
+Press escape to cancel selection.
+
+Mod v always works on selected items. Also, Mod v only works on highlighted target
+directory, rather than the directory opened in the (current) pane
+Mod + v: Copy selected items into currently highlighted directory
+Mod shift v: Move selected items into currently highlighted directory
+
+Use Mod R to delete files and directories (or just the delete key ). Mod Z to undo.

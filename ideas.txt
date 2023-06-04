@@ -14,7 +14,8 @@ Ideas for a terminal file manager
 12. Mod + f to create a new file in current pane
 13. Mod + shift f to create a new file in other pane
 14. Mod + shift c copy selected file to other pane
-15. Mod + v Paste selected files in this pane
+15. Mod + v to copy selected files into highlighted folder
+16. Mod + shift v to move selected files into highlighted folder
 16. Esc to cancel selection
 17. Mod + r to delete a file or directory
 
