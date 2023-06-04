@@ -15,8 +15,22 @@ To copy a group of files to other pane:
 - Press Mod + shift + c to copy the highlighted files to other pane
 - Or Mod + shift + m to move the files to other pane
 
-2. To copy a file to current pane:
+2. To copy files to current pane:
+To copy a file to current pane, a selection has to be made not just highlights
+- Use up or down arrow keys to get to a file
+- Use shift + up or down arrow keys to highlight first file
+- Release the shift key and use up or down arrow keys to highlight more files
+- The up or down arrow keys can also be used to de-highlight an highlighted file
+- Press enter to select the highlighted files
+- In the current pane, navigate to the directory the files should be copied to
+- Press Mod + c to copy the files to current pane
+- Mod + m to move the files to current pane
 
+3. To copy files to an highlighted directory in the current pane:
+- Select the files as in (2) above
+- Use up or down arrow keys to get to the target directory
+- Use Mod + i to copy the files into the highlighted directory
+- Or Mod + shift + i to move the files into the highlighted directory
 
 
 Highlighting multiple files
