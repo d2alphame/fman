@@ -34,14 +34,10 @@ To copy a file to current pane, a selection has to be made not just highlights
 
 
 Highlighting multiple files
-1. Highlight as you go: 
-Use the up and down arrow keys to go up and down the directory. Use the left
-arrow key to add to highlights, use the right arrow key to remove from highlights.
-
 2. Highlight a block:
 Use the up or down arrow key to get to the first file.
 Use shift + up or down arrow key to hightlight the file.
-Use up or down arrow key to get to the second file.
+Release the shift key and use up or down arrow key to get to the second file.
 The first file, the second file, and all the files in between will be highlighted
 
 3. Hightlight a block with mouse

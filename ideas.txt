@@ -8,20 +8,16 @@ Ideas for a terminal file manager
 6. Loads saved workspace on start
 7. Loads home directory on first use
 8. Mod + x to `chmod +x` a selected file (or last created file)
-9. Mod + 4 to `chmod 400` a selected file. Usually used SSH key files
+9. Mod + 4 to `chmod 400` a selected file. Usually used with SSH key files
 10. Mod + d to create a new directory in current pane
 11. Mod + shift d to create a new directory in other pane
 12. Mod + f to create a new file in current pane
 13. Mod + shift f to create a new file in other pane
 14. Mod + shift c copy selected file to other pane
-15. Mod + v to copy selected files into highlighted folder
-16. Mod + shift v to move selected files into highlighted folder
-16. Esc to cancel selection
-17. Mod + r to delete a file or directory
+15. Esc to cancel selection
+16. Mod + r to delete a file or directory
+17. Mod + t to open current pane in terminal
 
-
-Use left arrow key to add items to selection. Use right arrow key to drop
-selected items from selection
 
 There should also be a directory hotlist. Use Function keys to open items in the 
 hotlist. E.g F1 opens first item in directory hotlist. F2 opens second item in
