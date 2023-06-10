@@ -1,0 +1,33 @@
+1. Path to directory opened in left pane
+2. Path to directory opened in right pane
+3a.
+    i. Directory hotlist
+    ii. 
+3b. Left Pane
+3c. Right Pane
+
+
+
+--------------------------------------
+L: /path/to/directory/in/left/pane/
+--------------------------------------
+R: /path/to/directory/in/right/pane/
+---------------------------------------
+ hotlist     .
+ 1. item1    ..
+ 2. item2    directory1/
+ 3. item3    directory2/
+ 4. item4    file1.file
+ 5. item5    file2.file
+ 6. item6
+ 7. item7
+ 8. item8
+ 9. item9
+10. item10
+11. item11
+12. item12
+
+Total 16G
+Free  6G
+Used  1G
+---------------------------------------
