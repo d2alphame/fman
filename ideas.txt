@@ -25,14 +25,17 @@ directory hostlist, etc. Use shift + Function key to open the entry in 'other' p
 To add an entry, specify a label (this is what is shown in the hot list pane) and
 a path (the directory to go to)
 
-The panes have no borders. Borders are drawn around selected panes
+The view can be changed from dual pane mode to tabbed mode in which the other pane
+exists as a tab which is not immediately visible. The tab key can stil be used to
+switch between current pane and other pane.
+
+
+The panes have no borders. Borders are drawn around selected items
 Use `tab` to switch between panes
 
 Use `enter` to navigate into a folder in the current pane
 
 Use shift + enter to navigate into a folder in the other pane
-
-Space bar turns other pane into preview mode.
 
 Mod + space duplicates current pane in the other pane
 
