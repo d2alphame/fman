@@ -17,6 +17,8 @@ Ideas for a terminal file manager
 15. Esc to cancel selection
 16. Mod + r to delete a file or directory
 17. Mod + t to open current pane in terminal
+18. Mod + shift t to open other pane in terminal
+19. Mod + q to quit or exit
 
 
 There should also be a directory hotlist. Use Function keys to open items in the 

@@ -70,10 +70,6 @@ After highlighting one of the following can be done:
 After accepting the selection, use up or down arrow keys to highlight a
 directory and use Mod + c to copy the selection into the directory.
 
-Use Mod + v to 
-
-
-
 How to navigate into a directory:
 
 Ensure you're in directory mode (use the Mod key to toggle directory mode),
