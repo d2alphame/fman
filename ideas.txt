@@ -19,6 +19,7 @@ Ideas for a terminal file manager
 17. Mod + t to open current pane in terminal
 18. Mod + shift t to open other pane in terminal
 19. Mod + q to quit or exit
+20. Shift + tab to exchange panes
 
 
 There should also be a directory hotlist. Use Function keys to open items in the 
