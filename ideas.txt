@@ -8,7 +8,7 @@ Ideas for a terminal file manager
 6. Loads saved workspace on start
 7. Loads home directory on first use
 8. Mod + x to `chmod +x` a selected file (or last created file)
-9. Mod + 4 to `chmod 400` a selected file. Usually used with SSH key files
+9. Mod + shift 4 to `chmod 400` a selected file. Usually used with SSH key files
 10. Mod + d to create a new directory in current pane
 11. Mod + shift d to create a new directory in other pane
 12. Mod + f to create a new file in current pane
@@ -33,7 +33,7 @@ exists as a tab which is not immediately visible. The tab key can stil be used t
 switch between current pane and other pane.
 
 
-The panes have no borders. Borders are drawn around selected items
+The panes have no borders. Identify current pane by looking at where the highlighter is
 Use `tab` to switch between panes
 
 Use `enter` to navigate into a folder in the current pane
