@@ -56,3 +56,5 @@ in the configuration.
 
 esdf and ijkl for up, left, down, and right respectively.
 
+Mod + up goes to the top of the directory listing
+Mod + down goes to the bottom of the directory listing
