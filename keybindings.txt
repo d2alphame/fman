@@ -3,4 +3,7 @@ Some keybindings ideas
 Mod + m = Global prefix
 fman is modal. Meaning it has various modes.
 
-Available keyboard shortcuts depend on the current mode
+Available keyboard shortcuts depend on the current mode. However
+some shortcuts are always available irrespective of the mode
+
+tab to switch panes.
