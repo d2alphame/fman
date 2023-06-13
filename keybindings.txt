@@ -1,0 +1,6 @@
+Some keybindings ideas
+
+Mod + m = Global prefix
+fman is modal. Meaning it has various modes.
+
+Available keyboard shortcuts depend on the current mode
