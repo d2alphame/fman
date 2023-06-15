@@ -2,7 +2,7 @@ What can be done with panes?
 
 1. Duplicate current pane in the other pane
 2. Duplicate other pane in current pane
-3. Hide other pane in a tab
-4. Switch to other pane
+3. Hide other pane in a tab (shift + tab)
+4. Switch to other pane (tab)
 5. Open this pane in terminal
 6. Open other pane in terminal
