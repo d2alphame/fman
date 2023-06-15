@@ -6,4 +6,6 @@ fman is modal. Meaning it has various modes.
 Available keyboard shortcuts depend on the current mode. However
 some shortcuts are always available irrespective of the mode
 
-tab to switch panes.
+In main mode:
+tab to switch panes
+
